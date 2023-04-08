@@ -1,5 +1,7 @@
 Demo of our app:-
 http://172.16.73.252:8501
+       
+OR
 
 Open CMD in working directory.
 Run following command.
